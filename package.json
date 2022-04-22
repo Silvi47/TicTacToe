@@ -1,7 +1,7 @@
 {
-  "name": "vanilla-typescript",
+  "name": "Tic Tac Toe",
   "version": "1.0.0",
-  "description": "JavaScript and TypeScript example starter project",
+  "description": "Project Tic Tac Toe using Typescript",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
